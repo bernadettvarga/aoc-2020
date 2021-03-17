@@ -1,6 +1,6 @@
 ## Advent of Code 2020 Solutions
 
-[Reference](https://adventofcode.com/)
+[Reference](https://adventofcode.com/2020)
 
 - [Day 1 - Report Repair](https://github.com/bernadettvarga/aoc-2020/tree/master/day-1)
 - [Day 2 - Password Philosophy](https://github.com/bernadettvarga/aoc-2020/tree/master/day-2)
